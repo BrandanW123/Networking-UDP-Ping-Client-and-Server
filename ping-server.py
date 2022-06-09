@@ -1,7 +1,3 @@
-#Brandan Williams
-#bcw9
-#CS356-010
-
 #! /usr/bin/env python3
 # Echo Server
 import sys
